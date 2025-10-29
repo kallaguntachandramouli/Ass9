@@ -1,0 +1,29 @@
+V-Model :
+The V-Model is a software development and testing model that extends the Waterfall model. This Parallel approach.
+It's called the V-Model because the process is shaped like a "V".
+
+Key  of  V-Model:
+1. Verification and Validation: The V-Model emphasizes testing and validation at each stage of development.
+2. Corresponding testing phase: Each development phase has a corresponding testing phase.
+3. Testing activities: Testing activities are planned and executed in parallel with development activities.
+
+The V-Model phase1. Requirements Gathering: Define and document business requirements.
+2. System Design: Create a detailed design plan for the software.
+3. Component Design: Design individual components or modules.
+4. Implementation: Write code for the software.
+5.coding: is the process of designing, writing, testing, and maintaining the code .
+1. Unit Testing: Test individual components or units of code.
+2. Integration Testing: Test how components interact with each other.
+3. System Testing: Test the entire system to ensure it meets requirements.
+4. Acceptance Testing: Validate the software against business requirements.
+
+Benefits of the V-Model:
+1. Improved testing: Testing is integrated into each stage of development.
+2. Early defect detection: Defects are detected and addressed early.
+3. Reduced costs: Costs are reduced by identifying and fixing defects early.
+4. Higher quality: The V-Model ensures that software meets requirements and quality standards.
+
+ To use the V-Model:
+1. Safety-critical systems: Systems where failure can have severe consequences.
+2. Regulated industries: Industries with strict regulatory requirements.
+3. Complex systems: Systems with complex requirements and interactions.
