@@ -1,0 +1,39 @@
+SDLC(sotware Development Life cycle):
+SDLC is a process used for developing software applications, encompassing all phases from planning to deployment and maintenance.
+It phases:
+1.Requirement analysis: plan,define a project scope,Resource planing.
+2. Planning: Defining project scope, goals, and deliverables.
+3. Requirements Gathering: Collecting and documenting business requirements.
+4. Design: Creating a detailed design plan for the software.
+5. Implementation: Writing code and developing the software.
+6. Testing: Verifying and validating the software.
+7. Deployment: Releasing the software to production.
+8. Maintenance: Ensuring the software continues to meet user needs.
+
+STLC(Software testing life cycle):
+STLC is a subset of SDLC, focusing specifically on the testing phase. 
+The process step
+1. Requirement:Specification Application architecture document.
+2. Test Planning: Defining test objectives, scope, and approach.
+3. Test Case Development: Creating test cases and test scripts.
+4. Test Environment Setup: Preparing the test environment.
+5. Test Execution: Running test cases and reporting defects.
+6. Test Cycle Closure: Documenting test results and lessons learned.
+
+ Key differences between SDLC and STLC:
+
+1. Scope:
+    - SDLC: Entire software development process
+    - STLC: Testing phase of software development
+2. Objective:
+    - SDLC: Deliver high-quality software product
+    - STLC: Ensure software meets quality standards through testing
+3. Activities:
+    - SDLC: Planning, requirements gathering, design, implementation, testing, deployment, maintenance
+    - STLC: Test planning, test case development, test execution, defect reporting, test cycle closure
+4. Focus:
+    - SDLC: Software development lifecycle
+    - STLC: Software testing lifecycle
+5. Outcome:
+    - SDLC: Developed software product
+    - STLC: Tested software product with defects identified and reported
