@@ -1,0 +1,32 @@
+A Kanban board is a visual tool used to manage and track work, projects, or tasks.
+It's a board with columns representing different stages of work, such as To-Do, In Progress, and Done.
+
+Key Components of a Kanban Board:
+1. Columns: Representing different stages of work (e.g., To-Do, In Progress, Done)
+2. Cards: Representing individual tasks or work items
+3. Work-in-Progress (WIP) limits: Limiting the number of cards in each column
+
+How Kanban Boards Work:
+1. Visualize work: Cards are added to the board to represent tasks.
+2. Track progress: Cards move across columns as work progresses.
+3. Limit WIP: WIP limits ensure that team members focus on a manageable amount of work.
+4. Improve flow: The team works to optimize the flow of work through the board.
+
+Benefits of Kanban Boards:
+1. Improved visibility: Work is visible, and progress is tracked.
+2. Increased efficiency: WIP limits help teams focus on a manageable amount of work.
+3. Better prioritization: Teams can prioritize tasks based on business value and urgency.
+4. Enhanced collaboration: Team members can see what others are working on.
+
+Types of Kanban Boards:
+1. Physical board: A physical board with sticky notes or cards.
+2. Digital board: A digital tool, such as Trello or Asana, with virtual cards and columns.
+
+When to Use Kanban Boards:
+1. Software development: Managing tasks and features.
+2. Project management: Tracking progress and workflows.
+3. Team collaboration: Enhancing communication and visibility.
+ For example:
+                                  Kanban Board
+Backlog                   To Do                  In Progress                  Review                    Status
+Mobile Application      use Mobile Application   Learn Mobile Application     Moible Application        Completed
